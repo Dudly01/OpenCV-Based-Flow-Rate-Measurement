@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\andris-w520\documents\visual studio 2015\projects\tdk_400\tdk_400\main.cpp(118): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\andris-w520\documents\visual studio 2015\projects\tdk_400\tdk_400\main.cpp(119): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\andris-w520\documents\visual studio 2015\projects\tdk_400\tdk_400\main.cpp(276): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  TDK_400.vcxproj -> C:\Users\Andris-W520\documents\visual studio 2015\Projects\TDK_400\x64\Debug\TDK_400.exe
+  TDK_400.vcxproj -> C:\Users\Andris-W520\documents\visual studio 2015\Projects\TDK_400\x64\Debug\TDK_400.pdb (Full PDB)
